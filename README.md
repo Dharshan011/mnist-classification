@@ -11,7 +11,8 @@ The MNIST dataset stands as a cornerstone in both machine learning and computer 
 
 ## Neural Network Model
 
-![Screenshot 2024-03-20 104117](https://github.com/Dharshan011/mnist-classification/assets/113497491/641497e7-be02-44d2-b0d6-a75fc084a8f7)
+![Screenshot 2024-03-20 111723](https://github.com/Dharshan011/mnist-classification/assets/113497491/1aa48393-ca37-4119-a5bb-ff36d2ff8c49)
+
 
 
 ## DESIGN STEPS
