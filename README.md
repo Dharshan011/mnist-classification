@@ -68,7 +68,6 @@ X_test.shape
 single_image= X_train[0]
 single_image.shape
 plt.imshow(single_image,cmap='gray')
-print("Jeswanth 212221230042")
 y_train.shape
 X_train.min()
 X_train.max()
@@ -105,7 +104,7 @@ model.compile(loss='categorical_crossentropy',
 metrics = pd.DataFrame(model.history.history)
 metrics.head()
 metrics[['accuracy','val_accuracy']].plot()
-print("Jeswanth 212221230042")
+
 metrics[['loss','val_loss']].plot()
 x_test_predictions = np.argmax(model.predict(X_test_scaled), axis=1)
 print(confusion_matrix(y_test,x_test_predictions))
